@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-ENV: 
+env: 
   github.actor: chmkd
   github.repository_owner: chmkd
 
